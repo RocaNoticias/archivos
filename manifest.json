@@ -1,0 +1,103 @@
+{
+  "name": "RocaNoticias.com",
+  "short_name": "RocaNoticias.com",
+  "lang": "es",
+  "theme_color": "#27ae60",
+  "background_color": "#2c3e50",
+  "display": "standalone",
+  "Scope": "https://www.rocanoticias.com/?m=1",
+  "start_url": "https://www.rocanoticias.com/?m=1",
+  "description": "APP del Sitio web RocaNoticias.com un lugar con noticias e información de Roca y alrededores.",
+  "icons": [
+   {
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s16/RocaNoticias_800_vectorizado.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+   {
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s32/RocaNoticias_800_vectorizado.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+   {
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s57/RocaNoticias_800_vectorizado.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+	{
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s60/RocaNoticias_800_vectorizado.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s72/RocaNoticias_800_vectorizado.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+	{
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s76/RocaNoticias_800_vectorizado.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s96/RocaNoticias_800_vectorizado.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+	{
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s114/RocaNoticias_800_vectorizado.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+	{
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s120/RocaNoticias_800_vectorizado.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s128/RocaNoticias_800_vectorizado.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s144/RocaNoticias_800_vectorizado.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s152/RocaNoticias_800_vectorizado.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+	{
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s180/RocaNoticias_800_vectorizado.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s192/RocaNoticias_800_vectorizado.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s384/RocaNoticias_800_vectorizado.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+	{
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s800/RocaNoticias_800_vectorizado.png",
+      "sizes": "800x800",
+      "type": "image/png"
+    },
+	{
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s1024/RocaNoticias_800_vectorizado.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-UoWz_S0T_TA/XrRrPqwblDI/AAAAAAAAI98/ve0pKFVQUksWRDzODcyqviHaIw62WILPACNcBGAsYHQ/s512/RocaNoticias_800_vectorizado.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  }
